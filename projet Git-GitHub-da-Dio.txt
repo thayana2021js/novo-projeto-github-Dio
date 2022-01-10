@@ -1,0 +1,14 @@
+GIT/ GITHUB
+
+criando primeiro repositório no GitHub para compartilhar.
+
+1- longa conta gihub
+
+2- adicionar ou criar repositório com Nome : projeto-git/github-da-Dio
+
+3 editar arquivo no repositório, clona git ou git bash.
+
+4 renomear seu repositório e salva alteração.
+
+-------------------------------------------------------
+  https://github.com/thayana2021js/Dio-desafio-github.git
