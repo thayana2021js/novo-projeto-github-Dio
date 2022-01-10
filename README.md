@@ -1,12 +1,12 @@
 # novo-projeto-github-Dio
-meu projeto dio
+meu projeto DA Dio
 
 
 ***ESPETINHOS*** :calendar:
 
 
 
-- SABOR FRANFO/BACON
+- SABOR FRANGO/BACON
 - CARNE SOL/QUEIJO
 - FRANGO/QUEIJO
 - TOSCANA FRANGO
